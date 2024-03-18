@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! 👋
 
-<!--
-**TaimoorCodes/TaimoorCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Freelance Designer 🎨 learning how to code 💻. I'm currently pursuing my Bachelor's in Computer Science 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything about Frontend and Backend technologies.
+- ⚽ In my free time, I love playing football and engaging in outdoor activities.
+- 🌶️ I'm a big fan of spicy food and enjoy trying out new cuisines.
+
+### Connect with Me
+
+Feel free to reach out for collaborations or just a chat. I'm always open to discussing new projects and creative ideas.
+
+- 📫 How to reach me: (mailto:hello@taimoor.design)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I type really fast ⌨
