@@ -12,6 +12,6 @@ I'm a Freelance Designer 🎨 learning how to code 💻. I'm currently pursuing 
 
 Feel free to reach out for collaborations or just a chat. I'm always open to discussing new projects and creative ideas.
 
-- 📫 How to reach me: (mailto:hello@taimoor.design)
+- 📫 How to reach me: hello@taimoor.design
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I type really fast ⌨
